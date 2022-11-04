@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### This Repository is an Abode of pretty interesting projects that i undertook. Prepare to be fascinated!!
+### Get ready to be fascinated!!
 
 

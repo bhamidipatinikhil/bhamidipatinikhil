@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### This Repository is an Abode of pretty interesting projects that i undertook. Prepare to be fascinated!!
+
+
